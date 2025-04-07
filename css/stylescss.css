@@ -11,19 +11,19 @@ body {
     color: #1f2c34;
     font-family: "Monserrat", sans-serif;
     font-weight: 700;
-    border-left: 5px solid #e96b55;
+    border-left: 5px solid #a4230d;
     padding-left: 5%;
     margin-bottom: 3%; }
   body a {
-    color: #e96b55; }
+    color: #a4230d; }
     body a:hover {
       color: #5eab99;
       text-decoration: none; }
   body .btn-custom {
     background: transparent;
-    border: 2px solid #e96b55;
+    border: 2px solid #a4230d;
     border-radius: 25px;
-    color: #e96b55;
+    color: #a4230d;
     font-weight: 600;
     text-transform: uppercase; }
     body .btn-custom:hover {
@@ -46,13 +46,13 @@ body {
     /* Place the button 30px from the right */
     z-index: 99;
     /* Make sure it does not overlap */
-    border: 2px solid #e96b55;
+    border: 2px solid #a4230d;
     /* Remove borders */
     outline: none;
     /* Remove outline */
     background-color: transparent;
     /* Set a background color */
-    color: #e96b55;
+    color: #a4230d;
     /* Text color */
     cursor: pointer;
     /* Add a mouse pointer on hover */
@@ -83,7 +83,7 @@ body {
   height: auto;
   min-height: 200px; }
 .welcome article {
-  background: #e96b55;
+  background: #a4230d;
   color: white;
   text-align: center;
   text-transform: uppercase; }
@@ -174,7 +174,7 @@ footer {
     display: inline-block;
     width: 45px;
     height: 45px;
-    background-color: #e96b55;
+    background-color: #a4230d;
     border-radius: 45px; }
     footer .social .socialicons a:hover {
       background-color: #5eab99; }
