@@ -155,7 +155,7 @@ footer .container{
   padding-left: 2%;
 }
 footer {
-  background: #718890;
+  background: #2e4f5b;
   color: white; }
   footer h2 {
     font-size: 1.5rem; }
@@ -164,7 +164,7 @@ footer {
     color: white; 
     margin-top: 0.5rem;}
     footer .footerLinks a:hover {
-      color: #5eab99; }
+      color: #b7e5da; }
   footer .social .socialicons a {
     color: white;
     font-size: 1.5rem;
@@ -174,10 +174,10 @@ footer {
     display: inline-block;
     width: 45px;
     height: 45px;
-    background-color: #a4230d;
+    background-color: #fe8d79;
     border-radius: 45px; }
     footer .social .socialicons a:hover {
-      background-color: #5eab99; }
+      background-color: #b7e5da; }
   footer .socketBkg {
     background: #1f2c34;
     width: 100%;
