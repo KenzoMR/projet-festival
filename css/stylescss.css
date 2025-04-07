@@ -15,7 +15,7 @@ body {
     padding-left: 5%;
     margin-bottom: 3%; }
   body a {
-    color: #a4230d; }
+    color: white; }
     body a:hover {
       color: #5eab99;
       text-decoration: none; }
@@ -161,7 +161,7 @@ footer {
     font-size: 1.5rem; }
   footer .footerLinks a {
     display: block;
-    color: #fe8d79; 
+    color: white; 
     margin-top: 0.5rem;}
     footer .footerLinks a:hover {
       color: #b7e5da; }
